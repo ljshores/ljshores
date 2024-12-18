@@ -1,4 +1,10 @@
-## Hi there 👋
+## 🗺️ Journeying through knowledge, discovery, and understanding.
+
+I'm Lauren Shores, a data scientist who loves digging into data to solve problems and uncover insights to better understand the world and make decisions. With professional experience in both supply chain and real estate, I’ve led multi-million-dollar projects at a Fortune 500 company, creating machine learning models and forecasting solutions that make a real impact.
+
+I earned my MS in Predictive Analytics from Northwestern University, and I’m also passionate about mentoring and helping Black professionals in data through my work at BlackTIDES Data. Clear communication is one of my superpowers—it’s how I keep projects moving and everyone on the same page.
+
+Outside of work, you’ll find me diving into personal data projects on topics like race, place, and food. When I’m not geeking out on data, I’m probably exploring new cuisines, reading, watching movies, traveling, or trying something new.
 
 <!--
 **ljshores/ljshores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
