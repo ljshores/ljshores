@@ -6,6 +6,9 @@ I earned my MS in Predictive Analytics from Northwestern University, and I’m a
 
 Outside of work, you’ll find me diving into personal data projects on topics like race, place, and food. When I’m not geeking out on data, I’m probably exploring new cuisines, reading, watching movies, traveling, or trying something new.
 
+### Recorded Presentations
+* [Python Analysis and Regression: Understanding Academic Attainment in Chicago Public Schools](https://youtu.be/7grIWhWZNZM?si=6a9mkz_h7iXGNycJ)
+* [Geospatial Analysis in Python](https://youtu.be/pwK71Hi9D_M?si=-3rtpBLHikXee7ir)
 <!--
 **ljshores/ljshores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
